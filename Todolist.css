@@ -1,0 +1,73 @@
+body img{
+    background-repeat: no-repeat;
+}
+#first{
+    position: absolute;
+    width: 500px;
+    height: 220px;
+    left: 400px;
+    /*background-color: green;*/
+}
+#first h1{
+    top: -20px;
+    position: absolute;
+    font-size: 80px;
+    left: 150px;
+    color: cadetblue;
+}
+#new-todo{
+    top: 150px;
+    position: absolute;
+    width: 500px;
+    height: 50px;
+    font-size: 30px;
+    padding-left: 10px;
+}
+#on{
+    top: 150px;
+    left: 550px;
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    padding-left: 10px;
+}
+#table1{
+    top: 300px;
+    position: absolute;
+    left: 400px;
+
+}
+#table1 tr td{
+    height:30px;
+
+}
+#select{
+    position: absolute;
+    top: 150px;
+    left: -120px;
+    /*position: absolute;*/
+    width: 50px;
+    height: 50px;
+    /*background-color: aqua;*/
+}
+.con label{
+    position: absolute;
+    top: 150px;
+    left: -120px;
+    /*position: absolute;*/
+    width: 50px;
+    height: 50px;
+}
+.many{
+    top: 250px;
+    position: absolute;
+    width: 500px;
+    height: 220px;
+    left: 420px;
+
+    /*background-color: green;*/
+}
+.many input{
+    padding-right: 20PX;
+}
